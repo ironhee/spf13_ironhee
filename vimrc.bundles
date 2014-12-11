@@ -1,0 +1,2 @@
+Bundle 'https://github.com/junegunn/seoul256.vim.git'
+Bundle 'https://github.com/edkolev/tmuxline.vim.git'
